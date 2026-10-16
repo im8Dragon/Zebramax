@@ -7,8 +7,8 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=t
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AD%D8%AA%D9%85%D8%A7%D9%8B%20%D8%AA%D9%88%DB%8C%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%DA%A9%D9%84%D8%A7%DB%8C%D9%86%D8%AA%20%DA%AF%D8%B2%DB%8C%D9%86%D9%87%20Fake%20DNS%20%D8%B1%D9%88%20%D9%81%D8%B9%D8%A7%D9%84%20%DA%A9%D9%86%DB%8C%D8%AF
 
 ===================
-vless://3db6935b-fa0e-477f-a84d-da62dbdb390d@www.speedtest.net:443?path=%2Fvl%2FjKBr2QiLnNFPs6E1PY%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=352wlegujfhgalh85s2sf.6llkm3h3w2ahts7u36hk82.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&sni=352WLeGUJfhgalh85S2sf.6Llkm3h3W2AHtS7u36hK82.wORKers.dEv#%40Zebramaxbot%201.1.1.1
-vless://3db6935b-fa0e-477f-a84d-da62dbdb390d@www.speedtest.net:443?path=%2Fvl%2FjKBr2QiLnNFPs6E1PY%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=352wlegujfhgalh85s2sf.6llkm3h3w2ahts7u36hk82.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&sni=352WLeGUJfhgalh85S2sf.6Llkm3h3W2AHtS7u36hK82.wORKers.dEv#%40Zebramaxbot%208.8.8.8
+vless://4cd85390-eec3-b1f3-6304-77b600000000@www.speedtest.net:443?path=%2Fmew&security=tls&encryption=none&host=pixel-edge-234.eshghohalberahe10.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&sni=pixel-edge-234.eshghohalberahe10.workers.dev#%40Zebramaxbot%201.1.1.1
+vless://4cd85390-eec3-b1f3-6304-77b600000000@www.speedtest.net:443?path=%2Fmew&security=tls&encryption=none&host=pixel-edge-234.eshghohalberahe10.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&sni=pixel-edge-234.eshghohalberahe10.workers.dev#%40Zebramaxbot%208.8.8.8
 
 
 
