@@ -10,6 +10,8 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=t
 vless://4cd85390-eec3-b1f3-6304-77b600000000@www.speedtest.net:443?encryption=none&security=tls&sni=pixel-edge-234.eshghohalberahe10.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=pixel-edge-234.eshghohalberahe10.workers.dev&path=%2Fmew#%40Zebramaxbot%201.1.1.1
 vless://4cd85390-eec3-b1f3-6304-77b600000000@www.speedtest.net:443?encryption=none&security=tls&sni=pixel-edge-234.eshghohalberahe10.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&host=pixel-edge-234.eshghohalberahe10.workers.dev&path=%2Fmew#%40Zebramaxbot%208.8.8.8
 
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#@zebramax
+
 
 
 
